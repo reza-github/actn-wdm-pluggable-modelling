@@ -3,7 +3,7 @@ title: "Data Modelling and Gap Analysis of Optical Pluggables in Packet Over Opt
 abbrev: "Modelling Optical Pluggables"
 category: info
 
-docname: draft-rokui-ccamp-actn-wdm-pluggable-modelling-latest
+docname: draft-ietf-ccamp-actn-wdm-pluggable-modelling-oo
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -22,6 +22,8 @@ venue:
   arch: "https://mailarchive.ietf.org/arch/browse/ccamp/"
   github: "italobusi/actn-wdm-pluggable-modelling"
   latest: "https://italobusi.github.io/actn-wdm-pluggable-modelling/draft-rokui-ccamp-actn-wdm-pluggable-modelling.html"
+
+https://github.com/reza-github/actn-wdm-pluggable-modelling/tree/pluggable-WG-doc-00
 
 author:
   -
